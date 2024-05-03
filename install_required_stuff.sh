@@ -1,4 +1,4 @@
-pkg install clang python libffi openssl libsodium 
+pkg install clang python libffi openssl libsodium rust
 SODIUM_INSTALL=system pip install pynacl 
 pip install paramiko 
 git clone https://github.com/zacheller/rockyou 
