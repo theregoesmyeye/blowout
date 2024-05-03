@@ -1,0 +1,5 @@
+You'll find this is only a placeholder.
+
+For the real password list, try https://github.com/zacheller/rockyou
+
+Save it here and replace this placeholder and you will be a all set.
